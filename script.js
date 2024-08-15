@@ -1,1 +1,0 @@
-var aluno = new Aluno;
